@@ -15,5 +15,7 @@
   "bugs": {
     "url": "https://github.com/ahyc/Hackathon/issues"
   },
-  "homepage": "https://github.com/ahyc/Hackathon#readme"
+  "homepage": "https://github.com/ahyc/Hackathon#readme",
+  "dependencies": {
+     "youtube-iframe-player": "1.0.1"
 }
