@@ -1,0 +1,19 @@
+{
+  "name": "musicdemocratic",
+  "version": "1.0.0",
+  "description": "epic playlist by everyone",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahyc/Hackathon.git"
+  },
+  "author": "Team UCL lol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahyc/Hackathon/issues"
+  },
+  "homepage": "https://github.com/ahyc/Hackathon#readme"
+}
